@@ -1,0 +1,1 @@
+# Otimizando custos na Azure!
